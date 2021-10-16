@@ -17,6 +17,7 @@ Also, I want to learn various fields such as backend, frontend, ios, AI ...
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 <br>
 
+[![ows3090's github stats](https://github-readme-stats.vercel.app/api?username=ows3090)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ows3090/ows3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
