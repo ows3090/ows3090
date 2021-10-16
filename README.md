@@ -2,8 +2,8 @@
 <a href="https://mail.google.com/mail" target="gmail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 Hi there 👋
-I'm studying to become an android developer.
-I am interested in various architectures and design patterns these days.
+I'm studying to become an android developer.<br>
+I am interested in various architectures and design patterns these days.<br>
 Also, I want to learn various fields such as backend, frontend, ios, AI ...
 <br>
 
