@@ -8,10 +8,9 @@ Also, I want to learn various fields such as backend, frontend, ios, AI ...
 <br>
 
 ### 🤟 Skill
-<br>
 
 #### Platform
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 <br>
 
 #### Languages
