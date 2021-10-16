@@ -1,4 +1,3 @@
-### 
 <a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=flat&logo=Storyblok&logoColor=white"/></a>
 <a href="https://mail.google.com/mail" target="gmail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
@@ -8,15 +7,14 @@ I am interested in various architectures and design patterns these days.
 Also, I want to learn various fields such as backend, frontend, ios, AI ...
 <br>
 
-🤟 Skill
+### 🤟 Skill
 <br>
 
-### Platform
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+#### Platform
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 <br>
 
-### Languages
+#### Languages
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
