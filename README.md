@@ -1,5 +1,5 @@
 ### 
-<a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Storyblok&logoColor=white"/></a>
+<a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=flat&logo=Storyblok&logoColor=white"/></a>
 <a href="https://mail.google.com/mail" target="gmail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 Hi there 👋
