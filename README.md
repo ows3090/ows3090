@@ -1,7 +1,8 @@
-### Hi there 👋
+### 
 <a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Storyblok&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<a href="https://mail.google.com/mail" target="gmail"><img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white"/></a>
 
+Hi there 👋
 <!--
 **ows3090/ows3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
