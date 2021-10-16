@@ -19,7 +19,7 @@ Also, I want to learn various fields such as backend, frontend, ios, AI ...
 [![ows3090's github stats](https://github-readme-stats.vercel.app/api?username=ows3090)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Contact
+### Contacts me
 <a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=flat&logo=Storyblok&logoColor=white"/></a>
 <a href="https://mail.google.com/mail" target="gmail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
