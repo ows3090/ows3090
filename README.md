@@ -9,12 +9,13 @@ Also, I want to learn various fields such as backend, frontend, ios, AI ...
 <br>
 
 🤟 Skill
+<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420style=flat-square&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CCstyle=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599Cstyle=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 #
 <!--
