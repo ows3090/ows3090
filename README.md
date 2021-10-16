@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="tistory" target="https://math-coding.tistory.com/"><img src="https://img.shields.io/badge/BLOG-#000000?style=flat&logo=Storyblok&logoColor=#09B3AF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="https://math-coding.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
