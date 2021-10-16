@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="tistory" target="https://math-coding.tistory.com/"><img src="https://img.shields.io/badge/BLOG-#09B3AF?style=flat&logo=https://simpleicons.org/?q=story
+https://simpleicons.org/icons/storyblok.svg"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
