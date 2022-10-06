@@ -1,5 +1,3 @@
-### It's me
-
 Hello I'm wonseok 😀 <br>
 Let me introduce myself in one sentences <br>
 **I like to develop!**<br>
