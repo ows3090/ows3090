@@ -15,7 +15,7 @@ Let me introduce myself in one sentences <br>
 
 ### 📞 Contacts me
 <a href="https://velog.io/@ows3090" target="tistory"><img src="https://img.shields.io/badge/Velog-20C997?style=flag&logo=Velog&logoColor=white"/></a>
-<a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=flat&logo=Storyblok&logoColor=white"/></a>
+<a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Storyblok&logoColor=white"/></a>
 <a href="https://mail.google.com/mail" target="gmail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!--
