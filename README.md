@@ -9,8 +9,6 @@ Let me introduce myself in one sentences. <br>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 
-<br>
-
 ### 📞 Contacts me
 <a href="https://velog.io/@ows3090" target="tistory"><img src="https://img.shields.io/badge/Velog-20C997?style=flag&logo=Velog&logoColor=white"/></a>
 <a href="https://math-coding.tistory.com" target="tistory"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
