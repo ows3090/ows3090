@@ -1,6 +1,5 @@
 Hello I'm wonseok 😀 <br>
-Let me introduce myself in one sentences. <br>
-**I like to develop!**<br>
+Welcome to come my github page!
 
 <br>
 
